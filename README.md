@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm @thesaadameer
-### 👀 I'm interested in Software Engineer/Developer roles
-### 🌱 I’m currently learning Mobile Development and Data Analysis - R 
-### 📫 How to reach me: thesaadameer@gmail.com
+👀 I'm interested in Software Engineer/Developer roles
+🌱 I’m currently learning Mobile Development and Data Analysis - R 
+📫 How to reach me: thesaadameer@gmail.com
 
 <!--
 **thesaadameer/thesaadameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
