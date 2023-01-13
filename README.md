@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @thesaadameer
 - 👀 I'm interested in Mobile and Web Development
-- 🌱 I’m currently learning Android Development and Data Analysis - R 
 - 📫 How to reach me: thesaadameer@gmail.com
 
 <!--
